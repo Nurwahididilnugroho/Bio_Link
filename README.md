@@ -19,8 +19,8 @@ Ini adalah proyek web sederhana yang menampilkan artikel-artikel menarik tentang
 - **HTML & CSS**: Struktur halaman dibuat menggunakan HTML untuk konten dan CSS untuk gaya, memastikan tampilan yang bersih dan menarik.
 - **Gambar**: Memanfaatkan gambar SpongeBob sebagai daya tarik visual utama.
 
-## Cara Menggunakan
+<!-- ## Cara Menggunakan
 
 1. Clone repository ini ke komputer Anda:
    ```bash
-   git clone https://github.com/yourusername/spongebob-articles.git
+   git clone https://github.com/yourusername/spongebob-articles.git -->
